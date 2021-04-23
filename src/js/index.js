@@ -1,4 +1,7 @@
-new hoverEffect({
+//document.querySelector('.next').addEventListener('click', button5.next);
+//document.querySelector('.previous').addEventListener('click', button5.previous);
+
+ new hoverEffect({
    parent: document.querySelector(`.div-video`),
    image1: `../assets/img/video.mp4`, 
    image2: `../assets/img/video2.mp4`, 
@@ -11,8 +14,32 @@ new hoverEffect({
     intensity1: 0.1, 
     intensity2: 0.1, 
     angle2: Math.PI / 2, 
-    image1: `../assets/img/one.jpg`, 
-    image2: '../assets/img/two.jpg', 
+    image1: `../assets/img/image.jpg`, 
+    image2: '../assets/img/louis-hansel-shotsoflouis-e96ST3p7tn4-unsplash.jpg', 
     imagesRatio: 512 / 512, 
     displacementImage: '../assets/img/fluid.jpg',
+}); 
+
+new hoverEffect({
+    parent: document.querySelector(`.div2`),
+    intensity1: 0.25, 
+    intensity2: 0.25, 
+    angle1: Math.PI / 2,
+    angle2: -Math.PI / 2, 
+    image1: `../assets/img/image.jpg`, 
+    image2: '../assets/img/jorge-dominguez-dAaeth0Je-k-unsplash.jpg',
+    imagesRatio: 512 / 512, 
+    displacementImage:'../assets/img/fluid.jpg',
+}); 
+
+new hoverEffect({
+    parent: document.querySelector(`.div3`),
+    intensity1: 0.25, 
+    intensity2: 0.25, 
+    angle1: Math.PI / 2,
+    angle2: -Math.PI / 2, 
+    image1: `../assets/img/louis-hansel-shotsoflouis-e96ST3p7tn4-unsplash.jpg`, 
+    image2: `../assets/img/jorge-dominguez-dAaeth0Je-k-unsplash.jpg`,
+    imagesRatio: 512 / 512, 
+    displacementImage:'../assets/img/fluid.jpg',
 }); 
