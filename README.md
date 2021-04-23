@@ -49,10 +49,56 @@ Liquid Transition with Javascript.
 - 1240px
 - 1400px
 
+# Images 
+- [Unsplash](https://unsplash.com/)
+- [Pexels](https://www.pexels.com/)
+- [TinyPng](https://tinypng.com/)
 
+# CDN JS
+- [CDN](https://cdnjs.com/)
 # Javascript tools
 
--[Hover-effect](https://github.com/robin-dela/hover-effect)
+- [Hover-effect](https://github.com/robin-dela/hover-effect)
+- [PixiJs](https://www.pixijs.com/)
+- [StencilJs](https://stenciljs.com/)
+- [Parallax](https://matthew.wagerfield.com/parallax/)
+- [Rellax](https://dixonandmoe.com/rellax/)
+- [ScrollMagic](https://scrollmagic.io/)
+- [SwiperJs](https://swiperjs.com/get-started)
+- [BarbaJs](https://barba.js.org/)
+- [PopJs](https://boscoh.github.io/popjs/#/)
+- [MomentJs](https://momentjs.com/)
+- [VideoJs](https://videojs.com/)
+- [Cypress](https://www.cypress.io/)
+- [MochaJs](https://mochajs.org/)
+- [ThreeJs](https://threejs.org/)
+- [Particles](https://vincentgarreau.com/particles.js/)
+- [JestJs](https://jestjs.io/)
+- [AnimeJs](https://animejs.com/)
+- [Typescript](https://www.typescriptlang.org/)
+- [BackboneJs](https://backbonejs.org/)
+- [UnderScoreJs](https://underscorejs.org/)
+- [HammerJs](https://hammerjs.github.io/)
+- [FullPage](https://alvarotrigo.com/fullPage/es/#page2)
+- [D3Js](https://d3js.org/)
+- [EditorJs](https://editorjs.io/)
+- [SailsJs](https://sailsjs.com/)
+- [PapperJs](http://paperjs.org/)
+- [ChartJs](https://www.chartjs.org/)
+- [GulpJs](https://gulpjs.com/)
+- [SortableJs](https://sortablejs.github.io/Sortable/)
+- [ScrollrevealsJs](https://scrollrevealjs.org/)
+- [Lightgallery](https://sachinchoolur.github.io/lightgallery.js/)
+- [Glider](https://nickpiscitelli.github.io/Glider.js/)
+- [Splitting](https://splitting.js.org/)
+- [GlideJs](https://glidejs.com/)
+- [Pure-Js](https://pure-js.com/)
+- [MultipleJs](https://multiple.js.org/)
+- [BabelJs](https://babeljs.io/)
+- [GSAP](https://greensock.com/)
+# Markdown Tools
+- [Markdown](https://markdown.es/)
+- [MdEditor](https://pandao.github.io/editor.md/en.html)
 
 # MIT License
 - [Choosealicense](https://choosealicense.com/)
