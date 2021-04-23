@@ -3,6 +3,7 @@ Liquid Transition with Javascript.
 
 # Inspired
 [Github-Hover-Effect](https://github.com/robin-dela/hover-effect)
+[Robin delaporte](https://github.com/robin-dela)
 [Dev Ev](https://www.youtube.com/watch?v=HlCzCq46YTk&t=554s)
 [DistortionEffect](https://tympanus.net/Development/DistortionHoverEffect/)
 
