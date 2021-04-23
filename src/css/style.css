@@ -1,3 +1,13 @@
+:root {
+ --clr-One: #044BD9;
+ --clr-Two: #0339A6;
+ --clr-Three: #023373;
+ --clr-complement1: #011C40;
+ --clr-complement2: #0D0D0D;
+ --Clr-White: #ffffff;
+ --clr-Black: #000000;
+}
+
 * {
     box-sizing: border-box;
     margin: 0;
@@ -22,9 +32,30 @@ img {
 }
 
 body {
-    font-family: 'Zen Dots', cursive;
+   /*  font-family: 'Zen Dots', cursive; */
 
     font-family: 'Montserrat', sans-serif;
     
     
+}
+
+header {
+    width: 100%;
+    height: 15vh;
+    background-color: var(--clr-complement2);
+}
+nav {
+    width: 100%;
+    height: 100%;
+}
+
+main {
+    width: 100%;
+    height: 100vh;
+}
+
+footer {
+    width: 100%;
+    height: 15vh;
+    background-color: var(--clr-complement2);
 }
