@@ -4,6 +4,7 @@ Liquid Transition with Javascript.
 # Inspired
 [Github-Hover-Effect](https://github.com/robin-dela/hover-effect)
 [Dev Ev](https://www.youtube.com/watch?v=HlCzCq46YTk&t=554s)
+[DistortionEffect](https://tympanus.net/Development/DistortionHoverEffect/)
 
 # Fonts
 - [AdobeFonts](https://fonts.adobe.com/)
@@ -54,6 +55,8 @@ Liquid Transition with Javascript.
 - [Pexels](https://www.pexels.com/)
 - [TinyPng](https://tinypng.com/)
 
+# Icons
+- [FontAwesome](https://fontawesome.com/)
 # CDN JS
 - [CDN](https://cdnjs.com/)
 # Javascript tools

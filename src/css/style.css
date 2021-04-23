@@ -6,8 +6,25 @@
 html {
     font-size: 62.5%;
 }
+
+ul {
+    list-style: none;
+}
+a {
+    text-decoration:none;
+}
+img {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+    object-fit: cover;
+}
+
 body {
     font-family: 'Zen Dots', cursive;
 
     font-family: 'Montserrat', sans-serif;
+    
+    
 }
