@@ -100,6 +100,27 @@ Liquid Transition with Javascript.
 - [Markdown](https://markdown.es/)
 - [MdEditor](https://pandao.github.io/editor.md/en.html)
 
+# CSS Tools
+- [unDraw](https://undraw.co/illustrations)
+- [PathClippy](https://bennettfeely.com/clippy/)
+- [Animate](https://animate.style/)
+- [GetWaves](https://getwaves.io/)
+- [Webgradients](https://webgradients.com/)
+- [Mycolor](https://mycolor.space/gradient3)
+- [CSSGenerator](https://css3generator.com/)
+- [Tailwind](https://tailwindcss.com/)
+- [Bootstrap](https://getbootstrap.com/)
+- [onliePngTools](https://onlinepngtools.com/)
+
+# Tips: 
+- Posicionamiento.
+
+- Modelo de caja (Box-model).
+
+- Tipografía.
+
+- Visual (Efectos y otros).
+
 # MIT License
 - [Choosealicense](https://choosealicense.com/)
 
