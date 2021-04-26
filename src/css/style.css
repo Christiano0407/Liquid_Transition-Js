@@ -63,6 +63,10 @@ nav {
     margin: 10px auto;
     position: relative;
 }
+.demos-ctr {
+    margin: 0 auto;
+    text-align: center;
+}
 .div2 img {
     background-repeat: no-repeat;
     background-size: cover;
@@ -102,7 +106,7 @@ nav {
     margin: 0px 20px;
     padding: .5rem;
     border-radius: 1rem;
-
+    cursor: pointer;
 }
  footer { 
      width: 100%; 
